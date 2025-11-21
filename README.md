@@ -6,7 +6,7 @@ Repositori ini berisi dokumentasi dan kumpulan link materi praktikum yang disusu
 
 ## 🧩 Pendahuluan
 
-Dokumentasi ini dibuat untuk memudahkan proses pembelajaran mata kuliah **Praktikum Basis Data**, mulai dari pengenalan konsep dasar hingga implementasi menggunakan MySQL.  
+Dokumentasi ini dibuat untuk memudahkan proses pembelajaran **Praktikum Basis Data**, mulai dari pengenalan konsep dasar hingga implementasi menggunakan MySQL.  
 Setiap pertemuan akan dilengkapi dengan link menuju notebook **Google Colab** yang berisi penjelasan lengkap materi.
 
 ---
@@ -26,5 +26,4 @@ Setiap pertemuan akan dilengkapi dengan link menuju notebook **Google Colab** ya
 |----|--------|-----------|--------|
 | 1 | **Pertemuan 1** | Penjelasan Bab 1 — ERD (di Colab) | https://colab.research.google.com/notebooks/intro.ipynb |
 | 2 | **Pertemuan 2** | Penjelasan Bab 2 — Pengantar Basis Data & DDL (di Colab) | https://colab.research.google.com/drive/1IGGCODzwjQAhN4BLd5oGw631S6vrQUld?usp=sharing |
-
 
